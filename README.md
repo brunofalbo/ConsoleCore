@@ -1,1 +1,5 @@
 # CONSOLE CORE
+
+teste
+
+teste
